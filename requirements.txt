@@ -4,7 +4,7 @@ chardet==3.0.4
 clearbit==0.1.7
 decorator==4.1.2
 Django==1.11.7
-djangorestframework==3.7.3
+djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 email-hunter-python==1.1.0
 Faker==0.8.7
